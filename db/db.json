@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "name": "asuza",
+      "email": "asuza@gmail.com",
+      "password": "asuza@123",
+      "id": 1
+    },
+    {
+      "name": "selin",
+      "email": "selin@gmail.com",
+      "password": "selin@123",
+      "id": 2
+    },
+    {
+      "name": "mark",
+      "email": "mark@gmail.com",
+      "password": "mark@1234",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "pet123",
+      "id": 4
+    },
+    {
+      "name": "eva",
+      "email": "eva@gmail.com",
+      "password": "eva@123",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "shirt",
+      "price": "40",
+      "description": "Product shirt",
+      "image": "https://images.pexels.com/photos/3262937/pexels-photo-3262937.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 2,
+      "name": "shirt",
+      "price": "70",
+      "description": "Zenobia fashion is a clothing line that design and produce tailored to fit street wears which are in line with urban culture, sport wears, casuals and the entertainment industry. Our products are styled to the latest urban trends and collections and are made with quality cotton fabric with long lasting comfort, its so easy to maintain and always ready to wear for all outings. With our fun and talking wears, you do more than just look good, you make a statement.",
+      "image": "https://images.pexels.com/photos/3735641/pexels-photo-3735641.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 3,
+      "name": "sweater",
+      "price": "90",
+      "description": "lorem ipsum",
+      "image": "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 4,
+      "name": "women shirt",
+      "price": "50",
+      "description": "lorem ipsum",
+      "image": "https://images.pexels.com/photos/5709665/pexels-photo-5709665.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 5,
+      "name": "women shirt",
+      "price": "50",
+      "description": "lorem ipsum",
+      "image": "https://images.pexels.com/photos/5709665/pexels-photo-5709665.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "blouse",
+      "price": 60,
+      "description": "worn on sunny days",
+      "image": "https://images.pexels.com/photos/9393922/pexels-photo-9393922.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 6
+    },
+    {
+      "name": "hat",
+      "price": 70,
+      "description": "womens hat for beaches",
+      "image": "https://images.pexels.com/photos/8580765/pexels-photo-8580765.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 7
+    },
+    {
+      "name": "trouser",
+      "price": 10,
+      "description": "trousers for men",
+      "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 8
+    },
+    {
+      "name": "T-shirts",
+      "price": 50,
+      "description": "hanged light clothes",
+      "image": "https://images.pexels.com/photos/102129/pexels-photo-102129.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 9
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "name": "sweater",
+      "price": "90",
+      "image": "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "quantity": 1
+    },
+    {
+      "id": 1,
+      "name": "shirt",
+      "price": "40",
+      "image": "https://images.pexels.com/photos/3262937/pexels-photo-3262937.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "name": "blouse",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/9393922/pexels-photo-9393922.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "quantity": 1
+    }
+  ]
+}
